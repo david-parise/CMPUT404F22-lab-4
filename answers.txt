@@ -16,4 +16,9 @@ CMPUT 404 Lab 4 Answers
    into your database schema.
 
 5. Question 5
+-  After logging into the Django administration site, we can access Groups and Users under the Authentication and Authorization section,
+   and our custom models, Choices and Questions, under the Polls section. We can also view our recent actions.
+   We can get custom models to appear in the Django admin page by registering them in admin.py.
+
+6. Question 6
 -  
