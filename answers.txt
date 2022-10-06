@@ -1,0 +1,15 @@
+CMPUT 404 Lab 4 Answers
+
+1. Question 1
+-  Git URL: https://github.com/david-parise/CMPUT404F22-lab-4.git
+
+2. Question 2
+-  The browser shows a django page at http://127.0.0.1:8000/ saying "The install worked successfully! Congratulations!".
+   The page also includes links to Django Documentation, Tutorial: A Polling App, and Django Community.
+
+3. Question 3
+-  Navigating to / displays a 404 page, whereas navigating to /polls displays a page with 
+   "Hello, world. You're at the polls index." printed.
+
+4. Question 4
+-  
