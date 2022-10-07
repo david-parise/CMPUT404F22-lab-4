@@ -25,3 +25,6 @@ CMPUT 404 Lab 4 Answers
    And finally at /polls/38/vote we see "You're voting on question 38." If we use a string instead of an index, we get a 404 page 
    because Django expects an integer for question_id. To allow arbitrary alphabetic characters, we can change the type of question_id
    (in the urls.py file) from int to str.
+
+7. Question 7
+-  
