@@ -31,4 +31,6 @@ CMPUT 404 Lab 4 Answers
    by hand to prevent the application from breaking.
 
 8. Question 8
--  
+-  Using Django's generic views are to be used when we want to write commonly used views and so, saves us time by not having to write them from scratch.
+   We should use generic views for simple classes whose code structure, etc. have been implemented so we can reuse the same code to reduce duplication, 
+   but should write our own views when we require customization of those views to fit our task.
