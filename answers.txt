@@ -27,4 +27,8 @@ CMPUT 404 Lab 4 Answers
    (in the urls.py file) from int to str.
 
 7. Question 7
+-  It is bad to harcode urls into the templates since if route configurations change later, every related hardcoded URL needs to be changed
+   by hand to prevent the application from breaking.
+
+8. Question 8
 -  
